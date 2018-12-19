@@ -6,6 +6,12 @@
   <p><strong>Fax: vijaysmada@gmail.com</strong></p>
   <p><strong> Sulawesi Selatan</strong></p></td>
   <td width="70" align="center">
+<?php
+$tgl=date('l, d-m-Y');
+echo $tgl;
+?>
+</td>
+  <td width="70" align="center">
 
 
     <script type="text/javascript"> 
