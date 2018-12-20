@@ -96,6 +96,6 @@
 <body>
     <div id="canvasArea"></div>
 
-    <div style="font-family: 'gdjs_font_Bimbo_JVE.ttf'; color: black;">.</div>
-</body>
+    <div style="font-family: 'gdjs_font_Bimbo_JVE.ttf'; color: white;">.</div>
+	</body>
 </html>
