@@ -1,5 +1,3 @@
-<?php
-echo"
 <!DOCTYPE html>
 <html>
 <head>
@@ -100,5 +98,4 @@ echo"
 Hera
     <div style="font-family: 'gdjs_font_Bimbo_JVE.ttf'; color: white;">.</div>
 	</body>
-</html>"
 ?>
