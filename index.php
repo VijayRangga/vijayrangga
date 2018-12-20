@@ -1,3 +1,5 @@
+<?php
+echo"
 <!DOCTYPE html>
 <html>
 <head>
@@ -95,7 +97,8 @@
 </head>
 <body>
     <div id="canvasArea"></div>
-
+Hera
     <div style="font-family: 'gdjs_font_Bimbo_JVE.ttf'; color: white;">.</div>
 	</body>
-</html>
+</html>"
+?>
